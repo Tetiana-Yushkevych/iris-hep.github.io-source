@@ -19,12 +19,12 @@ mentors:
   -  Markus Diefenthaler (Jefferson Lab)
 proposal: /assets/pdf/fellows-2022/221-proposal-Tetiana-Yushkevych.pdf
 presentations:
-  - title: ""
-    date: ""
-    url:
-    meeting:
-    meetingurl:
-    recordingurl:
+  - title: "Tools for understanding semi-inclusive deep-inelastic scattering measurements"
+    date: "2022-08-22"
+    url: https://drive.google.com/drive/folders/1wozbp-5EguoinTKNAxzdS-JioIhSYsYG
+    meeting:Lightning Talks
+    meetingurl: https://cern.zoom.us/j/69163437238?pwd=ekZDdE9YRVlYSzFFTEZrNjkrTWozUT09
+    recordingurl: 
     focus-area:
 current_status: >
   A placeholder for status updates
